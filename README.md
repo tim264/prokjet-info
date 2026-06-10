@@ -1,2 +1,1 @@
-# prokjet-info
-figure ulposéées
+lancez le fichier "jeu.py".
